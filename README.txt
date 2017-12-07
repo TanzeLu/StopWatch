@@ -6,4 +6,4 @@ indclude several functions listed as follows:
 
 2.it's welcomed to determine the size and color of the time number in this stopwatch interface.
 
-3.it's extended to have a advanced function,coutdown.you can also make it displayed in fullscreen.
+3.it's extended to have a advanced function,coutdown.you can also make it displayed in fullscreen selectively.
